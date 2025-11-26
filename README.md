@@ -14,8 +14,9 @@
 - <b>Machine Learning</b>
 - <b>AI Labs</b>
 - <b>Cloud Labs</b>
+
   - [Network, Cloud, AI, Maching Learning, & Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App ( Machine Learning Components)</b>
+- <b> AI ( Machine Learning Components)</b>
  
 
 <h2>📺 Popular YouTube Videos</h2>
