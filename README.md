@@ -1,4 +1,5 @@
-<h1>Hi, I'm Raymond <br/><a href="https://github.com/Raymond_Dillard”>Network Engineer</a>, <a 
+<h1>Hi, I'm Raymond 
+  <br/><a href="https://github.com/Raymond_Dillard”>Network Engineer</a>, <a 
                            <a href="https://www.linkedin.com/in//raymonddillard</a>, 
   <a href="https://www.youtube.com/>YouTuber</a></h1>
 
@@ -13,8 +14,8 @@
 - <b>Machine Learning</b>
 - <b>AI Labs</b>
 - <b>Cloud Labs</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
+  - [Network, Cloud, AI, Maching Learning, & Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Full Stack Web App ( Machine Learning Components)</b>
  
 
 <h2>📺 Popular YouTube Videos</h2>
