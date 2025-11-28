@@ -1,7 +1,7 @@
 <h1>Hi, I'm Raymond 
-  <br/><a href="https://github.com/Raymond_Dillard”>Network Engineer</a>, <a 
-                           <a href="https://www.linkedin.com/in//raymonddillard</a>, 
-  <a href="https://www.youtube.com/>YouTuber</a></h1>
+  <br/><a href="https://github.com/Raymond_Dillard”>Network Engineer</a>
+                <a href="https://www.linkedin.com/in//raymonddillard'</a>, 
+  
 
 
 <h2>Network, Cloud, and Machine Learning Professional</h2>
